@@ -2,7 +2,7 @@
 
 > Basic form in development.
 
-> HTML & CSS only.
+> HTML, CSS & JavaScript only.
 
 ___
 
